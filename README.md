@@ -3,8 +3,11 @@
 Integrated production and distribution planning for perishable food products
 
 .mod ------> model file
+
 .dat ------> data file
+
 .xlsx -----> excel file
+
 .ops-------> setting file {default}
 
 
