@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Integrated production and distribution planning for perishable food products</description>
+	<configs>
+		<config category="opl" default="true" name="Yap&amp;#305;lan&amp;#305;&amp;#351;1">
+			<ref name="Farahani2012_Implementation.mod" type="model">
+			</ref>
+			<ref name="Farahani2012_Implementation.ops" type="setting">
+			</ref>
+			<ref name="Farahani2012_Implementation.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
